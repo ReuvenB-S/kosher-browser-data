@@ -1,0 +1,49 @@
+{
+  "allowed_sites": [
+    // אתרי יהדות
+    "https://www.chabad.org",
+    "https://www.aish.com",
+    "https://www.hidabroot.org",
+    "https://www.torahanytime.com",
+    "https://www.daat.ac.il",
+    "https://www.yeshiva.org.il",
+    "https://www.kipa.co.il",
+    "https://www.shoresh.org.il",
+    "https://www.breslev.co.il",
+    "https://www.bhol.co.il",
+
+    // אתרי בנקים
+    "https://www.bankhapoalim.co.il",
+    "https://www.bankleumi.co.il",
+    "https://www.discountbank.co.il",
+    "https://www.fibi.co.il",
+    "https://www.mizrahi-tefahot.co.il",
+    "https://www.umisrael.co.il",
+    "https://www.yaad.co.il",
+
+    // קופות חולים
+    "https://www.clalit.co.il",
+    "https://www.maccabi4u.co.il",
+    "https://www.meuhedet.co.il",
+    "https://www.leumit.co.il",
+
+    // אתרי ממשלה
+    "https://www.gov.il",
+    "https://tax.gov.il",
+    "https://www.btl.gov.il",
+    "https://www.court.gov.il",
+    "https://www.mia.gov.il",
+    "https://www.piba.gov.il",
+    "https://www.police.gov.il",
+    "https://www.moch.gov.il",
+    "https://employment.gov.il",
+
+    // אתרי שירותים נוספים
+    "https://www.yad2.co.il",
+    "https://www.meteo.co.il",
+    "https://www.winwin.co.il",
+    "https://www.zap.co.il",
+    "https://www.144.bezeq.co.il",
+    "https://www.mot.gov.il"
+  ]
+}
