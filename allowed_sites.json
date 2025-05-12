@@ -1,6 +1,6 @@
 {
   "allowed_sites": [
-    { "domain": "chabad", "name": "חב\"ד" },
+    { "domain": "chabad", "name": "חבד" },
     { "domain": "hadratkodesh", "name": "הדרת קודש" },
     { "domain": "klclick", "name": "קליק" },
     { "domain": "aish", "name": "אש התורה" },
