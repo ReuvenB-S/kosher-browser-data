@@ -171,7 +171,7 @@
      "domain": "chatgpt"
     },
    {
-     "name": "תורה אני טיים",
+     "name": "תורה בכל עת",
      "url": "https://www.torahanytime.com/",
      "domain": "torahanytime"
     },
@@ -185,12 +185,7 @@
      "url": "https://www.yeshiva.org.il/",
      "domain": "yeshiva.org.il"
     },
-   {
-     "name": "כיפה",
-     "url": "https://www.kipa.co.il/",
-     "domain": "kipa.co.il"
-    },
-   {
+    {
      "name": "שורש",
      "url": "https://www.shoresh.org.il/",
      "domain": "shoresh"
