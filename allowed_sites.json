@@ -5,6 +5,11 @@
       "url": "https://www.chabad.org/",
       "domain": "chabad"
     },
+   {
+    "name": "UPS משלוחים",
+    "url": "https://ups.vivr.io",
+    "domain": "ups"
+   },
      {
       "name": "חדשות החלל",
       "url": "https://starwalk.space/en",
