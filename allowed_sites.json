@@ -371,6 +371,11 @@
      "domain": "bezeq"
     },
    {
+     "name": "קוסמוס",
+     "url": "https://cosmos2025.iap.fr/fitsmap.html",
+     "domain": "cosmos"
+    },
+   {
      "name": "ממשלת ישראל",
      "url": "https://www.gov.il/",
      "domain": "gov.il"
