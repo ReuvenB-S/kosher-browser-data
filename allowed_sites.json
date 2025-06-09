@@ -6,6 +6,11 @@
       "domain": "chabad"
     },
     {
+      "name": "TTSFREE",
+      "url": "https://ttsfree.com/text-to-speech/Hebrew/",
+      "domain": "ttsfree"
+    },
+    {
       "name": "איילון ביטוח",
       "url": "https://ayalon-ins.co.il",
       "domain": "ayalon-ins"
