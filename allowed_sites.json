@@ -5,6 +5,11 @@
       "url": "https://www.chabad.org/",
       "domain": "chabad"
     },
+     {
+      "name": "veed",
+      "url": "https://www.veed.io",
+      "domain": "veed.io"
+    },
     {
       "name": "TTSFREE",
       "url": "https://ttsfree.com/text-to-speech/Hebrew/",
