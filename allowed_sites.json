@@ -5,6 +5,26 @@
       "url": "https://www.chabad.org/",
       "domain": "chabad"
     },
+    {
+      "name": "טפסי תשלומים",
+      "url": "https://direct.tranzila.com/",
+      "domain": "direct.tranzila"
+    },
+    {
+      "name": "מי כרמל",
+      "url": "https://www.mei-carmel.co.il/",
+      "domain": "mei-carmel"
+    },
+     {
+      "name": "PayBill",
+      "url": "https://www.paybill.co.il/",
+      "domain": "paybill"
+    },
+    {
+      "name": "אלקטרה פוואר",
+      "url": "https://www.electra-power.co.il",
+      "domain": "electra-power"
+    },
       {
       "name": "קורן - מעלה",
       "url": "https://kolnoa.org.il",
