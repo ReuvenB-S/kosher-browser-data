@@ -5,6 +5,12 @@
       "url": "https://www.chabad.org/",
       "domain": "chabad"
     },
+   {
+      "name": "gptfiles",
+      "url": "
+https://files09.oaiusercontent.com/",
+      "domain": "files09"
+    },
     {
       "name": "טפסי תשלומים",
       "url": "https://direct.tranzila.com/",
