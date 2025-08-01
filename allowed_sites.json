@@ -6,6 +6,11 @@
       "domain": "chabad"
     },
    {
+      "name": "דואר",
+      "url": "https://postil.co.il",
+      "domain": "postil.co"
+    },
+   {
       "name": "תשלום מאובטח",
       "url": "https://pages.greeninvoice.co.il",
       "domain": "greeninvoice"
