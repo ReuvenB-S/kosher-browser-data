@@ -6,6 +6,11 @@
       "domain": "chabad"
     },
    {
+      "name": "קונסול גוגל",
+      "url": "https://console.cloud.google.com",
+      "domain": "console.cloud.google"
+    },
+   {
       "name": "דואר",
       "url": "https://postil.co.il",
       "domain": "postil.co"
