@@ -10,6 +10,16 @@
       "url": "https://console.cloud.google.com",
       "domain": "console.cloud.google"
     },
+    {
+      "name": "OpenAthen",
+      "url": "https://my.openathens.net/app/research",
+      "domain": "openathens.net"
+    },
+    {
+      "name": "אוצר החכמה",
+      "url": "https://tablet-otzar-org",
+      "domain": "tablet-otzar-org"
+    },
    {
       "name": "רהיטוב",
       "url": "https://rehinet.co.il",
