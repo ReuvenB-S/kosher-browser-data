@@ -11,6 +11,11 @@
       "domain": "tablet-otzar"
     },
    {
+      "name": "רישום גוגל",
+      "url": " https://accounts.google.com",
+      "domain": "accounts.google.com"
+    },
+   {
       "name": "Zoom",
       "url": "https://zoom.us",
       "domain": "zoom.com"
