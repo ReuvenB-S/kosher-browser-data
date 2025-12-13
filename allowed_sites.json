@@ -11,6 +11,11 @@
       "domain": "tablet-otzar"
     },
    {
+      "name": "אתוס",
+      "url": "https://www.ethos.co.il",
+      "domain": "ethos.co"
+    },
+   {
       "name": "רישום גוגל",
       "url": " https://accounts.google.com",
       "domain": "accounts.google.com"
