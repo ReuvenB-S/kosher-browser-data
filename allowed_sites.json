@@ -4,12 +4,7 @@
       "name": "חבד",
       "url": "https://www.chabad.org/",
       "domain": "chabad"
-    },
-   {
-      "name": "רעיונית",
-      "url": "https://www.raayonit.co.il",
-      "domain": "raayonit.co"
-    },
+    
    {
       "name": "אוצר החכמה - כניסה מיוחדת",
       "url": "https://tablet-otzar-org.eu1.proxy.openathens.net/#/loading",
@@ -19,6 +14,12 @@
       "name": "אתוס",
       "url": "https://www.ethos.co.il",
       "domain": "ethos"
+    },
+   },
+   {
+      "name": "סיכומי הקלטות טימס",
+      "url": "email.tldv.io",
+      "domain": "email.tldv"
     },
    {
       "name": "רישום גוגל",
