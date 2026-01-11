@@ -1,61 +1,61 @@
- {
+{
   "allowed_sites": [
     {
       "name": "חבד",
       "url": "https://www.chabad.org/",
       "domain": "chabad"
-    
-   {
+    },
+    {
       "name": "אוצר החכמה - כניסה מיוחדת",
       "url": "https://tablet-otzar-org.eu1.proxy.openathens.net/#/loading",
       "domain": "tablet-otzar"
     },
-   {
+    {
       "name": "אתוס",
       "url": "https://www.ethos.co.il",
       "domain": "ethos"
     },
-   {
+    {
       "name": "סיכומי הקלטות טימס",
       "url": "email.tldv.io",
       "domain": "email.tldv"
     },
-   {
+    {
       "name": "רישום גוגל",
       "url": " https://accounts.google.com",
       "domain": "accounts.google.com"
     },
-   {
+    {
       "name": "Zoom",
       "url": "https://zoom.us",
-      "domain": "zoom.com"
+      "domain": "zoom.us"
     },
     {
       "name": "גלים תיירות",
       "url": "https://galimt.co.il/",
       "domain": "galimt.co"
     },
-   {
+    {
       "name": "רמי לוי - קניות און ליין",
       "url": "https://www.rami-levy.co.il/",
       "domain": "rami-levy"
     },
-   {
+    {
       "name": "אחיה - ידע",
       "url": "https://achiyayeda.org/",
       "domain": "achiyayeda"
     },
-   {
+    {
       "name": "דירשו",
       "url": "https://www.dirshu.co.il/",
       "domain": "dirshu.co"
     },
-     {
+    {
       "name": "קול הלשון",
       "url": "https://www2.kolhalashon.com/",
       "domain": "kolhalashon.com"
     },
-   {
+    {
       "name": "קונסול גוגל",
       "url": "https://console.cloud.google.com",
       "domain": "console.cloud.google"
@@ -70,34 +70,32 @@
       "url": "https://www.otzar.org",
       "domain": "otzar"
     },
-   {
+    {
       "name": "רהיטוב",
       "url": "https://rehinet.co.il",
       "domain": "rehinet"
     },
- 
-   {
+    {
       "name": "דואר",
       "url": "https://postil.co.il",
       "domain": "postil.co"
     },
-   {
+    {
       "name": "שות",
       "url": "https://shut-1db84.web.app",
       "domain": "shut-1db84"
     },
-   
-   {
+    {
       "name": "תשלום מאובטח",
       "url": "https://pages.greeninvoice.co.il",
       "domain": "greeninvoice"
     },
-   {
+    {
       "name": "מרכז בליבי",
       "url": "https://mrng.to",
       "domain": "mrng"
     },
-   {
+    {
       "name": "gptfiles",
       "url": "https://files09.oaiusercontent.com/",
       "domain": "oaiusercontent"
@@ -107,24 +105,24 @@
       "url": "https://direct.tranzila.com/",
       "domain": "direct.tranzila"
     },
-   {
+    {
       "name": "צ׳יטה משלוחים",
       "url": "https://u.cheetahint.com",
       "domain": "cheetahint"
     },
-   {
+    {
       "name": "צ׳יטה משלוחים",
       "url": "https://chitadelivery-cx.com",
       "domain": "cheetahint"
     },
-   {
+    {
       "name": "נדר",
       "url": "https://nedar.im/7014268",
       "domain": "nedar"
     },
-      {
-      "name": "דואר",
-      "url": "israelpost.co.il",
+    {
+      "name": "דואר ישראל",
+      "url": "https://israelpost.co.il",
       "domain": "israelpost"
     },
     {
@@ -132,7 +130,7 @@
       "url": "https://www.mei-carmel.co.il/",
       "domain": "mei-carmel"
     },
-     {
+    {
       "name": "PayBill",
       "url": "https://www.paybill.co.il/",
       "domain": "paybill"
@@ -142,7 +140,7 @@
       "url": "https://www.electra-power.co.il",
       "domain": "electra-power"
     },
-      {
+    {
       "name": "קורן - מעלה",
       "url": "https://kolnoa.org.il",
       "domain": "kolnoa.org"
@@ -152,12 +150,12 @@
       "url": "https://shvilei.com/he",
       "domain": "shvilei"
     },
-     {
+    {
       "name": "veed",
       "url": "https://www.veed.io",
       "domain": "veed.io"
     },
-   {
+    {
       "name": "בינה פלוס",
       "url": "https://binaplus.co.il",
       "domain": "binaplus"
@@ -173,9 +171,9 @@
       "domain": "ayalon-ins"
     },
     {
-      "name": "Sunu - AI MUSIC",
+      "name": "Suno - AI MUSIC",
       "url": "https://suno.com/home",
-      "domain": "sunu.com"
+      "domain": "suno.com"
     },
     {
       "name": "דין - שות כללי וממונות",
@@ -192,355 +190,350 @@
       "url": "https://kavhalacha.co.il",
       "domain": "kavhalacha.co"
     },
-   {
-    "name": "מסעדות",
-    "url": "misadot.rol.co.il",
-    "domain": "misadot"
-   },
-   {
-    "name": "moveshot",
-    "url": "https://www.moveshootmove.com",
-    "domain": "moveshootmove"
-   },
-   {
-    "name": "צור קשר ups",
-    "url": "eu.gointeract.io",
-    "domain": "gointeract.io"
-   },
-   {
-    "name": "UPS משלוחים",
-    "url": "https://ups.vivr.io",
-    "domain": "ups"
-   },
-     {
+    {
+      "name": "מסעדות",
+      "url": "https://misadot.rol.co.il",
+      "domain": "misadot"
+    },
+    {
+      "name": "moveshot",
+      "url": "https://www.moveshootmove.com",
+      "domain": "moveshootmove"
+    },
+    {
+      "name": "צור קשר ups",
+      "url": "https://eu.gointeract.io",
+      "domain": "gointeract.io"
+    },
+    {
+      "name": "UPS משלוחים",
+      "url": "https://ups.vivr.io",
+      "domain": "ups"
+    },
+    {
       "name": "חדשות החלל",
       "url": "https://starwalk.space/en",
       "domain": "starwalk"
     },
-   {
-    "name": "קאמרה",
-    "url": "https://cameraeilat.co.il",
-    "domain": "cameraeilat"
-   },
-   {
-    "name": "סטודיולנד",
-    "url": "https://www.studioland.co.il",
-    "domain": "studioland"
-   },
+    {
+      "name": "קאמרה",
+      "url": "https://cameraeilat.co.il",
+      "domain": "cameraeilat"
+    },
+    {
+      "name": "סטודיולנד",
+      "url": "https://www.studioland.co.il",
+      "domain": "studioland"
+    },
     {
       "name": "הדרת קודש",
       "url": "https://www.hadratkodesh.co.il/",
       "domain": "hadratkodesh"
     },
     {
-     "name": "קליק",
-     "url": "https://ctrk.klclick1.com",
-     "domain": "ctrk.klclick1"
-    },
-   {
-     "name": "ישראכרט",
-     "url": "https://www.isracard.co.il/",
-     "domain": "isracard"
-    },
-   {
-     "name": "XDA פורומים",
-     "url": "https://www.xdaforums.com/",
-     "domain": "xdaforums"
-    },
-   {
-     "name": "פרזון",
-     "url": "https://www.pairzon.co.il/",
-     "domain": "pairzon"
-    },
-   {
-     "name": "פז",
-     "url": "https://www.paz.co.il/",
-     "domain": "paz.co"
-    },
-   {
-     "name": "מפות גוגל",
-     "url": "https://maps.app.goo.gl/wMbaeJj3S2FRK9dLA",
-     "domain": "maps.app"
-    },
-   {
-     "name": "איש",
-     "url": "https://aish.co.il/",
-     "domain": "aish"
-    },
-   {
-     "name": "פאנל4אול",
-     "url": "https://www.panel4all.co.il/",
-     "domain": "panel4all"
-    },
-   {
-     "name": "סקר",
-     "url": "https://survey.gov.il/",
-     "domain": "survey"
-    },
-   {
-     "name": "אילתו",
-     "url": "https://www.ilto.co.il/",
-     "domain": "ilto"
-    },
-   {
-     "name": "צ'יטה משלוחים",
-     "url": "https://www.chitadelivery.com/",
-     "domain": "chitadelivery"
-    },
-   {
-     "name": "Skeye.Rocks",
-     "url": "https://skeye.rocks/",
-     "domain": "skeye.rocks"
-    },
-   {
-     "name": "נס טכנולוגיות",
-     "url": "https://www.ness-tech.com/",
-     "domain": "ness-tech"
-    },
-   {
-     "name": "DTZ",
-     "url": "https://dtz.sbms.io/",
-     "domain": "dtz.sbms.io"
-    },
-   {
-     "name": "דורש ציון",
-     "url": "https://doresh-tzion.co.il/",
-     "domain": "doresh-tzion"
-    },
-   {
-     "name": "תהילים יחד",
-     "url": "https://www.tehilimyahad.com/",
-     "domain": "tehilimyahad"
-    },
-   {
-     "name": "ג'מיני גוגל",
-     "url": "https://gemini.google.com/",
-     "domain": "gemini.google"
-    },
-   {
-     "name": "קליק סמוּב",
-     "url": "https://click.smoove.io/",
-     "domain": "click.smoove"
-    },
-   {
-     "name": "חברי סמוּב",
-     "url": "https://members.smoove.io/",
-     "domain": "members.smoove"
-    },
-   {
-     "name": "גיטהאב",
-     "url": "https://github.com/",
-     "domain": "github"
-    },
-   {
-     "name": "סלסטרון",
-     "url": "https://www.celestron.com/",
-     "domain": "celestron"
-    },
-   {
-     "name": "ויטו טכנולוגיה",
-     "url": "https://vitotechnology.com/",
-     "domain": "vitotechnology"
-    },
-   {
-     "name": "חרגול",
-     "url": "https://www.hargal.co.il/",
-     "domain": "hargal"
-    },
-   {
-     "name": "רב קו און ליין",
-     "url": "https://www.ravkavonline.co.il/",
-     "domain": "ravkavonline"
-    },
-   {
-     "name": "היי פוינט סיינטיפיק",
-     "url": "https://www.highpointscientific.com/",
-     "domain": "highpointscientific"
-    },
-   {
-     "name": "כיכר השבת",
-     "url": "https://www.kikar.co.il/",
-     "domain": "kikar"
-    },
-   {
-     "name": "היברו בוקס",
-     "url": "https://beta.hebrewbooks.org",
-     "domain": "hebrewbooks"
-    },
-   {
-     "name": "הידברות",
-     "url": "https://www.hidabroot.org/",
-     "domain": "hidabroot"
-    },
-   {
-     "name": "נאסא",
-     "url": "https://www.nasa.gov/",
-     "domain": "nasa"
-    },
-   {
-     "name": "ChatGPT",
-     "url": "https://chat.openai.com/",
-     "domain": "chatgpt"
-    },
-   {
-     "name": "תורה בכל עת",
-     "url": "https://www.torahanytime.com/",
-     "domain": "torahanytime"
-    },
-   {
-     "name": "דעת",
-     "url": "https://www.daat.ac.il/",
-     "domain": "daat.ac.il"
-    },
-   {
-     "name": "ישיבה",
-     "url": "https://www.yeshiva.org.il/",
-     "domain": "yeshiva.org.il"
+      "name": "קליק",
+      "url": "https://ctrk.klclick1.com",
+      "domain": "ctrk.klclick1"
     },
     {
-     "name": "שורש",
-     "url": "https://www.shoresh.org.il/",
-     "domain": "shoresh"
+      "name": "ישראכרט",
+      "url": "https://www.isracard.co.il/",
+      "domain": "isracard"
     },
-   {
-     "name": "ברסלב",
-     "url": "https://www.breslev.co.il/",
-     "domain": "breslev"
+    {
+      "name": "XDA פורומים",
+      "url": "https://www.xdaforums.com/",
+      "domain": "xdaforums"
     },
-   {
-     "name": "בחדרי חרדים",
-     "url": "https://www.bhol.co.il/",
-     "domain": "bhol"
+    {
+      "name": "פרזון",
+      "url": "https://www.pairzon.co.il/",
+      "domain": "pairzon"
     },
-   {
-     "name": "בנק הפועלים",
-     "url": "https://www.bankhapoalim.co.il/",
-     "domain": "bankhapoalim"
+    {
+      "name": "פז",
+      "url": "https://www.paz.co.il/",
+      "domain": "paz.co"
     },
-   {
-     "name": "בנק לאומי",
-     "url": "https://www.bankleumi.co.il/",
-     "domain": "bankleumi"
+    {
+      "name": "מפות גוגל",
+      "url": "https://maps.app.goo.gl/wMbaeJj3S2FRK9dLA",
+      "domain": "maps.app"
     },
-   {
-     "name": "בנק דיסקונט",
-     "url": "https://www.discountbank.co.il/",
-     "domain": "discountbank"
+    {
+      "name": "איש",
+      "url": "https://aish.co.il/",
+      "domain": "aish"
     },
-   {
-     "name": "הבנק הבינלאומי",
-     "url": "https://www.fibi.co.il/",
-     "domain": "fibi"
+    {
+      "name": "פאנל4אול",
+      "url": "https://www.panel4all.co.il/",
+      "domain": "panel4all"
     },
-   {
-     "name": "בנק מזרחי טפחות",
-     "url": "https://www.mizrahi.co.il/",
-     "domain": "mizrahi"
+    {
+      "name": "סקר",
+      "url": "https://survey.gov.il/",
+      "domain": "survey"
     },
-   {
-     "name": "אומ״י",
-     "url": "https://www.umisrael.org.il/",
-     "domain": "umisrael"
+    {
+      "name": "אילתו",
+      "url": "https://www.ilto.co.il/",
+      "domain": "ilto"
     },
-   {
-     "name": "יעד",
-     "url": "https://www.yaad.net/",
-     "domain": "yaad"
+    {
+      "name": "צ'יטה משלוחים",
+      "url": "https://www.chitadelivery.com/",
+      "domain": "chitadelivery"
     },
-   {
-     "name": "כללית",
-     "url": "https://www.clalit.co.il/",
-     "domain": "clalit"
+    {
+      "name": "Skeye.Rocks",
+      "url": "https://skeye.rocks/",
+      "domain": "skeye.rocks"
     },
-   {
-     "name": "מכבי",
-     "url": "https://www.maccabi4u.co.il/",
-     "domain": "maccabi"
+    {
+      "name": "נס טכנולוגיות",
+      "url": "https://www.ness-tech.com/",
+      "domain": "ness-tech"
     },
-   {
-     "name": "מאוחדת",
-     "url": "https://meuhedet.co.il/",
-     "domain": "meuhedet"
+    {
+      "name": "DTZ",
+      "url": "https://dtz.sbms.io/",
+      "domain": "dtz.sbms.io"
     },
-   {
-     "name": "לאומית",
-     "url": "https://www.leumit.co.il/",
-     "domain": "leumit"
+    {
+      "name": "דורש ציון",
+      "url": "https://doresh-tzion.co.il/",
+      "domain": "doresh-tzion"
     },
-   {
-     "name": "ממשלת ישראל",
-     "url": "https://www.gov.il/",
-     "domain": "gov.il"
+    {
+      "name": "תהילים יחד",
+      "url": "https://www.tehilimyahad.com/",
+      "domain": "tehilimyahad"
     },
-   {
-     "name": "רשות המסים",
-     "url": "https://www.misim.gov.il/",
-     "domain": "tax.gov.il"
+    {
+      "name": "ג'מיני גוגל",
+      "url": "https://gemini.google.com/",
+      "domain": "gemini.google"
     },
-   {
-     "name": "המוסד לביטוח לאומי",
-     "url": "https://www.btl.gov.il/",
-     "domain": "btl.gov.il"
+    {
+      "name": "קליק סמוּב",
+      "url": "https://click.smoove.io/",
+      "domain": "click.smoove"
     },
-   {
-     "name": "בתי המשפט",
-     "url": "https://courts.gov.il/",
-     "domain": "court.gov.il"
+    {
+      "name": "חברי סמוּב",
+      "url": "https://members.smoove.io/",
+      "domain": "members.smoove"
     },
-   {
-     "name": "רשות האוכלוסין וההגירה",
-     "url": "https://www.gov.il/he/service/population_immigration_authority",
-     "domain": "mia.gov.il"
+    {
+      "name": "גיטהאב",
+      "url": "https://github.com/",
+      "domain": "github"
     },
-   {
-     "name": "רשות הטבע והגנים",
-     "url": "https://www.parks.org.il/",
-     "domain": "piba.gov.il"
+    {
+      "name": "סלסטרון",
+      "url": "https://www.celestron.com/",
+      "domain": "celestron"
     },
-   {
-     "name": "משטרת ישראל",
-     "url": "https://www.police.gov.il/",
-     "domain": "police.gov.il"
+    {
+      "name": "ויטו טכנולוגיה",
+      "url": "https://vitotechnology.com/",
+      "domain": "vitotechnology"
     },
-   {
-     "name": "המשרד להגנת הסביבה",
-     "url": "https://www.gov.il/he/departments/ministry_of_environmental_protection",
-     "domain": "moch.gov.il"
+    {
+      "name": "חרגול",
+      "url": "https://www.hargal.co.il/",
+      "domain": "hargal"
     },
-   {
-     "name": "יד 2",
-     "url": "https://www.yad2.co.il/",
-     "domain": "yad2"
+    {
+      "name": "רב קו און ליין",
+      "url": "https://www.ravkavonline.co.il/",
+      "domain": "ravkavonline"
     },
-   {
-     "name": "מטאו טק",
-     "url": "https://www.meteo-tech.co.il/",
-     "domain": "meteo"
+    {
+      "name": "היי פוינט סיינטיפיק",
+      "url": "https://www.highpointscientific.com/",
+      "domain": "highpointscientific"
     },
-   {
-     "name": "ווין ווין",
-     "url": "https://www.winwin.co.il/",
-     "domain": "winwin"
+    {
+      "name": "כיכר השבת",
+      "url": "https://www.kikar.co.il/",
+      "domain": "kikar"
     },
-   {
-     "name": "זאפ",
-     "url": "https://www.zap.co.il/",
-     "domain": "zap"
+    {
+      "name": "היברו בוקס",
+      "url": "https://beta.hebrewbooks.org",
+      "domain": "hebrewbooks"
     },
-   {
-     "name": "בזק",
-     "url": "https://www.bezeq.co.il/",
-     "domain": "bezeq"
+    {
+      "name": "הידברות",
+      "url": "https://www.hidabroot.org/",
+      "domain": "hidabroot"
     },
-   {
-     "name": "קוסמוס",
-     "url": "https://cosmos2025.iap.fr/fitsmap.html",
-     "domain": "cosmos"
+    {
+      "name": "נאסא",
+      "url": "https://www.nasa.gov/",
+      "domain": "nasa"
     },
-   {
-     "name": "ממשלת ישראל",
-     "url": "https://www.gov.il/",
-     "domain": "gov.il"
+    {
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com/",
+      "domain": "chatgpt"
+    },
+    {
+      "name": "תורה בכל עת",
+      "url": "https://www.torahanytime.com/",
+      "domain": "torahanytime"
+    },
+    {
+      "name": "דעת",
+      "url": "https://www.daat.ac.il/",
+      "domain": "daat.ac.il"
+    },
+    {
+      "name": "ישיבה",
+      "url": "https://www.yeshiva.org.il/",
+      "domain": "yeshiva.org.il"
+    },
+    {
+      "name": "שורש",
+      "url": "https://www.shoresh.org.il/",
+      "domain": "shoresh"
+    },
+    {
+      "name": "ברסלב",
+      "url": "https://www.breslev.co.il/",
+      "domain": "breslev"
+    },
+    {
+      "name": "בחדרי חרדים",
+      "url": "https://www.bhol.co.il/",
+      "domain": "bhol"
+    },
+    {
+      "name": "בנק הפועלים",
+      "url": "https://www.bankhapoalim.co.il/",
+      "domain": "bankhapoalim"
+    },
+    {
+      "name": "בנק לאומי",
+      "url": "https://www.bankleumi.co.il/",
+      "domain": "bankleumi"
+    },
+    {
+      "name": "בנק דיסקונט",
+      "url": "https://www.discountbank.co.il/",
+      "domain": "discountbank"
+    },
+    {
+      "name": "הבנק הבינלאומי",
+      "url": "https://www.fibi.co.il/",
+      "domain": "fibi"
+    },
+    {
+      "name": "בנק מזרחי טפחות",
+      "url": "https://www.mizrahi.co.il/",
+      "domain": "mizrahi"
+    },
+    {
+      "name": "אומ״י",
+      "url": "https://www.umisrael.org.il/",
+      "domain": "umisrael"
+    },
+    {
+      "name": "יעד",
+      "url": "https://www.yaad.net/",
+      "domain": "yaad"
+    },
+    {
+      "name": "כללית",
+      "url": "https://www.clalit.co.il/",
+      "domain": "clalit"
+    },
+    {
+      "name": "מכבי",
+      "url": "https://www.maccabi4u.co.il/",
+      "domain": "maccabi"
+    },
+    {
+      "name": "מאוחדת",
+      "url": "https://meuhedet.co.il/",
+      "domain": "meuhedet"
+    },
+    {
+      "name": "לאומית",
+      "url": "https://www.leumit.co.il/",
+      "domain": "leumit"
+    },
+    {
+      "name": "ממשלת ישראל",
+      "url": "https://www.gov.il/",
+      "domain": "gov.il"
+    },
+    {
+      "name": "רשות המסים",
+      "url": "https://www.misim.gov.il/",
+      "domain": "tax.gov.il"
+    },
+    {
+      "name": "המוסד לביטוח לאומי",
+      "url": "https://www.btl.gov.il/",
+      "domain": "btl.gov.il"
+    },
+    {
+      "name": "בתי המשפט",
+      "url": "https://courts.gov.il/",
+      "domain": "court.gov.il"
+    },
+    {
+      "name": "רשות האוכלוסין וההגירה",
+      "url": "https://www.gov.il/he/service/population_immigration_authority",
+      "domain": "gov.il"
+    },
+    {
+      "name": "רשות הטבע והגנים",
+      "url": "https://www.parks.org.il/",
+      "domain": "parks.org.il"
+    },
+    {
+      "name": "משטרת ישראל",
+      "url": "https://www.police.gov.il/",
+      "domain": "police.gov.il"
+    },
+    {
+      "name": "המשרד להגנת הסביבה",
+      "url": "https://www.gov.il/he/departments/ministry_of_environmental_protection",
+      "domain": "gov.il"
+    },
+    {
+      "name": "יד 2",
+      "url": "https://www.yad2.co.il/",
+      "domain": "yad2"
+    },
+    {
+      "name": "מטאו טק",
+      "url": "https://www.meteo-tech.co.il/",
+      "domain": "meteo"
+    },
+    {
+      "name": "ווין ווין",
+      "url": "https://www.winwin.co.il/",
+      "domain": "winwin"
+    },
+    {
+      "name": "זאפ",
+      "url": "https://www.zap.co.il/",
+      "domain": "zap"
+    },
+    {
+      "name": "בזק",
+      "url": "https://www.bezeq.co.il/",
+      "domain": "bezeq"
+    },
+    {
+      "name": "קוסמוס",
+      "url": "https://cosmos2025.iap.fr/fitsmap.html",
+      "domain": "cosmos"
     }
   ]
 }
