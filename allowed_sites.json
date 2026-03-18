@@ -542,8 +542,13 @@
     },
     {
       "name": "קוסמוס",
-      "url": "https://cosmos2025.iap.fr/fitsmap.html",
+      "url": "https://www.cosmos.co.il/",
       "domain": "cosmos"
+    },
+       {
+      "name": "ברקת",
+      "url": "https://www.telescope-shop.com/",
+      "domain": "telescope-shop"
     }
   ]
 }
