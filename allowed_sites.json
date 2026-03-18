@@ -445,9 +445,19 @@
       "url": "https://www.yaad.net/",
       "domain": "yaad"
     },
+   {
+      "name": "B&H",
+      "url": "https://www.bhphotovideo.com/",
+      "domain": "bhphotovideo"
+    },
     {
       "name": "כללית",
       "url": "https://www.clalit.co.il/",
+      "domain": "clalit"
+    },
+      {
+      "name": "כללית מושלם",
+      "url": "https://clalitmushlamkosher.clalit.co.il/",
       "domain": "clalit"
     },
     {
