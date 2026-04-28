@@ -1,6 +1,11 @@
 {
   "allowed_sites": [
     {
+      "name": "NEXTSPACE",
+      "url": "https://nextspacefilght.com/",
+      "domain": "nextspacefilght"
+    },
+     {
       "name": "חבד",
       "url": "https://www.chabad.org/",
       "domain": "chabad"
