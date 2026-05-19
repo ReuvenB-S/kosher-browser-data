@@ -10,8 +10,13 @@
       "url":"https://teams.live.com/",
       "domain": "teams"
     },
-        {
-      "name": "בנק יהב",
+     {
+      "name":"גולן טלקום",
+      "url": "https://golantelecom.co.il",
+      "domain": "golantelecom"
+    },
+         {
+      "name": "גולן טלקום",
       "url": "https://yahav.co.il/",
       "domain": "yahav"
     },
