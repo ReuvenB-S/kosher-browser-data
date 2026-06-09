@@ -6,6 +6,11 @@
       "domain": "nextspaceflight"
     },
         {
+      "name": "איקאה",
+      "url": "https://www.ikea.com/il/he/",
+      "domain": "ikea.com"
+    },
+        {
       "name": "קל גב",
       "url": "https://eg.kalgav.co.il",
       "domain": "kalgav"
