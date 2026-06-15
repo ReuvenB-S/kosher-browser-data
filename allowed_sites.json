@@ -1,5 +1,10 @@
 {
   "allowed_sites": [
+       {
+      "name": "Aavaso",
+      "url": "https://www.aavso.org",
+      "domain": "aavso"
+    },
     {
       "name": "NEXTSPACE",
       "url": "https://nextspaceflight.com/",
@@ -10,6 +15,7 @@
       "url": "https://www.ikea.com/il/he/",
       "domain": "ikea.com"
     },
+    
         {
       "name": "קל גב",
       "url": "https://eg.kalgav.co.il",
