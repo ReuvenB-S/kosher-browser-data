@@ -1,5 +1,10 @@
 {
   "allowed_sites": [
+           {
+      "name": "סאמיט",
+      "url": "https://sumit.co.il",
+      "domain": "sumit.co"
+    },
        {
       "name": "Aavaso",
       "url": "https://www.aavso.org",
