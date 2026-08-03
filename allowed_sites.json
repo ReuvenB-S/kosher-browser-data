@@ -15,6 +15,11 @@
       "url": "https://www.upay.co.il",
       "domain": "upay.co"
     },
+           {
+      "name": "sop1",
+      "url": "https://sop1.biz",
+      "domain": "sop1.biz"
+    },
        {
       "name": "Aavaso",
       "url": "https://www.aavso.org",
